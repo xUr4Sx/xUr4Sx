@@ -1,5 +1,5 @@
 # ✨ About me:
-Soy técnico en programación de software.👨‍💻 <br><br>Actualmente estoy por terminar un <br>tecnólogo en análisis y desarrollo de<br>software. 📙📘📒<br><br>Estoy queriendo colaborar en distintos proyectos <br>para aportar lo que sé, y seguir aprendiendo.🤝<br>
+Soy técnico en programación de software.👨‍💻 <br><br>Actualmente estoy por terminar un <br>tecnólogo en análisis y desarrollo de<br>software. 📙📘📒<br><br>Estoy Creando distintos proyectos <br>para mostrar lo que sé, y seguir aprendiendo. 📖<br>
 
 
 # 🌐 Social accounts:
