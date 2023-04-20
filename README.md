@@ -3,8 +3,7 @@ Soy técnico en programación de software.👨‍💻 <br><br>Actualmente estoy 
 
 
 # 🌐 Contacts:
-![Uploading image.png…]()
-
+ ![Uploading image.png…](![image](https://user-images.githubusercontent.com/112638413/233379961-24a690f7-2dec-40d3-9280-f6a43321a3e1.png))
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ur4s.au?igshid=YmMyMTA2M2Y=) 
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_T1phvJuKhQgjtcjq5Vemw) 
   
