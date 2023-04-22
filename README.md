@@ -6,7 +6,7 @@ Soy Analista y desarrollador de software.👨‍💻 <br>Estoy creando distintos
 
 # 🌐 Contacts:
  📱: +57 3013679860
- <br>
+ <br><br>
  📧: Urdanetaangel886@gmail.com
  <br><br>
  🔗:
