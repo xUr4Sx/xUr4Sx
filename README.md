@@ -1,7 +1,7 @@
 ![Azul Oscuro y Naranja Biblioteca Publicación Tarjeta de Presentación (1)](https://user-images.githubusercontent.com/112638413/233752957-cda0c48a-6d9a-4522-af21-76e1da45b9fd.png)
 
 # ✨ About me:
-Soy Analista y desarrollador de software.👨‍💻 <br>Estoy creando distintos proyectos <br>para mostrar lo que sé, y seguir aprendiendo. 📖<br>
+Soy Analista y desarrollador de software.👨‍💻<br> <br>Estoy creando distintos proyectos <br>para mostrar lo que sé, y seguir aprendiendo. 📖<br>
 
 
 # 🌐 Contacts:
