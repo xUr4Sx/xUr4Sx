@@ -1,5 +1,5 @@
 # ✨ About me:
-Soy Analista y desarrollador de softwares.👨‍💻 <br><br>Estoy creando distintos proyectos <br>para mostrar lo que sé, y seguir aprendiendo. 📖<br>
+Soy Analista y desarrollador de software.👨‍💻 <br><br>Estoy creando distintos proyectos <br>para mostrar lo que sé, y seguir aprendiendo. 📖<br>
 
 
 # 🌐 Contacts:
