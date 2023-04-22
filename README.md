@@ -1,4 +1,4 @@
-![Azul Oscuro y Naranja Biblioteca Publicación Tarjeta de Presentación](https://user-images.githubusercontent.com/112638413/233752876-60ccc087-d289-48a5-a08b-6d83b28eb764.png)
+![Azul Oscuro y Naranja Biblioteca Publicación Tarjeta de Presentación (1)](https://user-images.githubusercontent.com/112638413/233752957-cda0c48a-6d9a-4522-af21-76e1da45b9fd.png)
 
  <br>
 
