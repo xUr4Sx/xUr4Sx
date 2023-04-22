@@ -7,6 +7,8 @@ Soy Analista y desarrollador de software.👨‍💻 <br><br>Estoy creando disti
 # 🌐 Contacts:
  📱: +57 3013679860
  <br><br>
+ 📧: Urdanetaangel886@gmail.com
+ <br><br>
  🔗:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ur4s.au?igshid=YmMyMTA2M2Y=) 
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_T1phvJuKhQgjtcjq5Vemw) 
