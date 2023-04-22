@@ -3,7 +3,7 @@ Soy técnico en programación de software.👨‍💻 <br><br>Actualmente estoy 
 
 
 # 🌐 Contacts:
- ![telefono-inteligente](https://user-images.githubusercontent.com/112638413/233752039-f36a0312-2a9b-44c7-9e86-7c65852b30bf.png): +57 3013679860
+ 📱: +57 3013679860
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ur4s.au?igshid=YmMyMTA2M2Y=) 
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_T1phvJuKhQgjtcjq5Vemw) 
   
