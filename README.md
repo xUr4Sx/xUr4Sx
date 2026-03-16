@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈%20VISITAR%20PORTAFOLIO-0d0d1a?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a1a2e&color=302b63)](https://xur4sx.github.io/)
+[![Portfolio](https://img.shields.io/badge/◈%20VISITAR%20PORTAFOLIO-0d0d1a?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a1a2e&color=302b63)](xUr4Sx.github.io)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=70&section=footer)
 
