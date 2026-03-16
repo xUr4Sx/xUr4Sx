@@ -1,6 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a6a,100:ff6a00&height=200&section=header&text=Angel%20Urdaneta&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descColor=ff6a00&animation=fadeIn" width="100%"/>
+<!-- HEADER SVG - Always loads, no external dependency -->
+<svg width="100%" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a3a6a"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6a00;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#ff6a00;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#ff6a00;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="180" fill="url(#bg)" rx="12"/>
+  <!-- Grid lines -->
+  <line x1="0" y1="45" x2="860" y2="45" stroke="rgba(0,180,255,0.06)" stroke-width="1"/>
+  <line x1="0" y1="90" x2="860" y2="90" stroke="rgba(0,180,255,0.06)" stroke-width="1"/>
+  <line x1="0" y1="135" x2="860" y2="135" stroke="rgba(0,180,255,0.06)" stroke-width="1"/>
+  <line x1="215" y1="0" x2="215" y2="180" stroke="rgba(0,180,255,0.06)" stroke-width="1"/>
+  <line x1="430" y1="0" x2="430" y2="180" stroke="rgba(0,180,255,0.06)" stroke-width="1"/>
+  <line x1="645" y1="0" x2="645" y2="180" stroke="rgba(0,180,255,0.06)" stroke-width="1"/>
+  <!-- Glow -->
+  <ellipse cx="430" cy="90" rx="300" ry="70" fill="rgba(0,120,255,0.07)"/>
+  <!-- Bottom wave line -->
+  <rect x="0" y="174" width="860" height="4" fill="url(#wave)" rx="2"/>
+  <!-- Corner marks -->
+  <rect x="16" y="16" width="18" height="2" fill="rgba(0,180,255,0.4)"/>
+  <rect x="16" y="16" width="2" height="18" fill="rgba(0,180,255,0.4)"/>
+  <rect x="826" y="16" width="18" height="2" fill="rgba(0,180,255,0.4)"/>
+  <rect x="842" y="16" width="2" height="18" fill="rgba(0,180,255,0.4)"/>
+  <rect x="16" y="162" width="18" height="2" fill="rgba(0,180,255,0.4)"/>
+  <rect x="16" y="144" width="2" height="18" fill="rgba(0,180,255,0.4)"/>
+  <rect x="826" y="162" width="18" height="2" fill="rgba(0,180,255,0.4)"/>
+  <rect x="842" y="144" width="2" height="18" fill="rgba(0,180,255,0.4)"/>
+  <!-- Name -->
+  <text x="430" y="82" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="46" font-weight="900" letter-spacing="2">
+    <tspan fill="#ffffff">ANGEL </tspan><tspan fill="#ff6a00">URDANETA</tspan>
+  </text>
+  <!-- Role -->
+  <text x="430" y="118" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#ff6a00" letter-spacing="3" font-weight="400">FULL-STACK DEVELOPER  |  AI &amp; AUTOMATION</text>
+  <!-- Dots decoration -->
+  <circle cx="180" cy="90" r="2" fill="rgba(0,180,255,0.4)"/>
+  <circle cx="192" cy="90" r="2" fill="rgba(0,180,255,0.3)"/>
+  <circle cx="668" cy="90" r="2" fill="rgba(0,180,255,0.4)"/>
+  <circle cx="680" cy="90" r="2" fill="rgba(0,180,255,0.3)"/>
+</svg>
 
 </div>
 
@@ -115,8 +161,9 @@ const angel = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xUr4Sx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=ff6a00&title_color=ff6a00&icon_color=ff6a00"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xUr4Sx&layout=compact&langs_count=8&theme=tokyonight&border_color=ff6a00&title_color=ff6a00"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xUr4Sx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=ff6a00&title_color=ff6a00&icon_color=ff6a00&hide_border=false&card_width=400"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xUr4Sx&layout=compact&langs_count=8&theme=tokyonight&border_color=ff6a00&title_color=ff6a00&card_width=400"/>
 
 </div>
 
@@ -150,7 +197,22 @@ const angel = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:1a3a6a,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<svg width="100%" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a2a4a"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="topline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6a00;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#ff6a00;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#ff6a00;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="80" fill="url(#footerbg)" rx="12"/>
+  <rect x="0" y="0" width="860" height="3" fill="url(#topline)" rx="2"/>
+</svg>
 
 **⭐ Si te gusta mi trabajo, no olvides dejar una estrella en mis repos ⭐**
 
